@@ -13,6 +13,7 @@
 ### JAVA
 - <a href="https://github.com/seogwoojin/TIL/blob/main/java/JVM.md">JVM</a>
 - [이펙티브 자바](https://github.com/seogwoojin/TIL/blob/main/java/Effective_java.md)
+- [자바 멀티스레드 환경에서 동시성 제어](https://github.com/seogwoojin/TIL/blob/main/java/EffectiveJava-Sync.md)
 
 ### Infra
 - [Docker](https://github.com/seogwoojin/TIL/blob/main/infra/Docker.md)
