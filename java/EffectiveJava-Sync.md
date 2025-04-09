@@ -142,7 +142,7 @@ CAS = Compare And Swap
 
 <img width="568" alt="image" src="https://github.com/user-attachments/assets/5c315fd0-3dcb-4071-9c49-0104c5832c06" />
 
-이러한 CAS는 Synchronized 보단 사용 가능한 수준이나, Spin Lock으로 인한 **Busy Wating**의 가능성이 존재한다.
+이러한 CAS는 Synchronized 보단 사용 가능한 수준이나, Spin Lock으로 인한 **Busy Wating**의 가능성이 존재한다는 단점도 있다.
 
 
 
