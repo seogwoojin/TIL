@@ -21,3 +21,6 @@
 
 ### Network
 - [TCP](https://github.com/seogwoojin/TIL/blob/main/network/TCP.md)
+
+### Architecture
+- [DI를 활용한 클린 아키텍처](https://github.com/seogwoojin/TIL/blob/main/Architecture/Clean_architecture.md)
