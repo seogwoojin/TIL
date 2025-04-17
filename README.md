@@ -6,6 +6,7 @@
 - <a href="https://github.com/seogwoojin/TIL/blob/main/spring/Monitoring.md"> 모니터링 (Actuator/프로메테우스/그라파나) </a>
 
 ### Database
+- [데이터베이스 설계에 대한 고민](https://github.com/seogwoojin/TIL/blob/main/Database/DB%EC%84%A4%EA%B3%84%EC%97%90%20%EA%B4%80%ED%95%B4.md)
 - <a href="https://github.com/seogwoojin/TIL/blob/main/Database/DB_index.md">DB 인덱스</a>
 - <a href="https://github.com/seogwoojin/TIL/blob/main/Database/Redis-Stream.md">Redis Stream</a>
 - <a href="https://github.com/seogwoojin/TIL/blob/main/Database/redis-management.md">Redis 운용</a>
