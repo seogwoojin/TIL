@@ -25,3 +25,8 @@
 
 ### Architecture
 - [DI를 활용한 클린 아키텍처](https://github.com/seogwoojin/TIL/blob/main/Architecture/Clean_architecture.md)
+
+
+깊이있는 개발자가, 안다고 말할 수 있는 개발자가 되려면..
+
+- OSI 7계층 - 1,2,3 계층이 어떻게 서버를 찾는지 서버에 도달했다면 이후 4계층 부터는 어떤 방식으로 동작하는 건지 (소켓, 패킷, 스트림 등등)
